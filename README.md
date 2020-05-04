@@ -1,2 +1,2 @@
 # DeepLearning
-Lösungen zum Model DeepLearning an der Uni Ulm
+Lösungen zum Modul "Introduction to Deep Learning" an der Uni Ulm
