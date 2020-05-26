@@ -5,3 +5,5 @@ lib64
 share
 pyvenv.cfg
 *.zip
+*.pickle
+*/.ipynb_checkpoints/
