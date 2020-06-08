@@ -7,3 +7,4 @@ pyvenv.cfg
 *.zip
 *.pickle
 */.ipynb_checkpoints/
+Exercise4/MNIST
